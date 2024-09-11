@@ -1,0 +1,10 @@
+.app {
+  padding: 10px;
+  align-items: start;
+  gap: 5px;
+  display: flex;
+  height: 100%;
+  background: url("./assets/note.svg") space;
+  background-size: 24px;
+  color: var(--text-primary);
+}
